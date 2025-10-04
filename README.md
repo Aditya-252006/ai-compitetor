@@ -1,4 +1,4 @@
-we nned to install npm 
+we ned to install npm 
 and then npm install
 rm -rf node_modules
 npm install
